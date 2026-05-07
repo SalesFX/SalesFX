@@ -55,35 +55,35 @@ Especializado em ambientes Cloud, Kubernetes, automação, CI/CD e observabilida
 
 ---
 
-## Professional Experience
+## Professional Projects
 
 ### Cloud Management & FinOps Platform
-Development and maintenance of cloud management and FinOps solutions focused on Oracle Cloud Infrastructure (OCI), involving automation, monitoring, infrastructure management and cost analysis.
-
-**Tech:** OCI, Node.js, Redis, Docker, Grafana
+Development of a cloud management and FinOps platform focused on Oracle Cloud Infrastructure (OCI), providing infrastructure visibility, cost monitoring, reporting and resource management.
 
 ---
 
-### Time Tracking & Workflow Platform
-Development and support of time tracking and workflow management systems with dashboards, integrations and process automation.
-
-**Tech:** TypeScript, Node.js, Docker, PostgreSQL
+### Time Tracking & On-Call Management Platform
+Development of an internal platform for overtime tracking, time banking and on-call schedule management, improving operational organization and team workflows.
 
 ---
 
-### Secure Credential Management Solution
-Implementation and maintenance of secure credential and password management solutions with encryption and authentication workflows.
-
-**Tech:** Node.js, AES-256, Docker, Linux
+### Secure Credential Vault
+Implementation of a secure password and credential management solution designed for internal infrastructure and operational access control.
 
 ---
 
-### Document Management Platform
-Containerized document management environments with CI/CD pipelines, observability and infrastructure automation.
-
-**Tech:** Kubernetes, Docker, GitLab CI/CD, Prometheus, Grafana
+### Technical Documentation Platform
+Development of a centralized platform for storing and organizing technical documentation for internal teams and clients.
 
 ---
+
+### Team Task & Workflow Management System
+Development of an internal task and workflow management platform for tracking team activities, operational tasks and ongoing processes.
+
+---
+
+### CI/CD & Automation Implementation
+Implementation and standardization of CI/CD pipelines and deployment automation processes, replacing manual operational workflows and improving delivery reliability.
 
 ## Connect with me
 

@@ -55,35 +55,35 @@ Especializado em ambientes Cloud, Kubernetes, automação, CI/CD e observabilida
 
 ---
 
-## Professional Projects
+## Projetos Profissionais
 
-### Cloud Management & FinOps Platform
-Development of a cloud management and FinOps platform focused on Oracle Cloud Infrastructure (OCI), providing infrastructure visibility, cost monitoring, reporting and resource management.
-
----
-
-### Time Tracking & On-Call Management Platform
-Development of an internal platform for overtime tracking, time banking and on-call schedule management, improving operational organization and team workflows.
+### Plataforma de Gestão Cloud & FinOps
+Desenvolvimento de uma plataforma voltada para gerenciamento de ambientes Oracle Cloud Infrastructure (OCI), com foco em visualização de recursos, monitoramento de custos, relatórios e acompanhamento financeiro da infraestrutura.
 
 ---
 
-### Secure Credential Vault
-Implementation of a secure password and credential management solution designed for internal infrastructure and operational access control.
+### Plataforma de Horas Extras, Banco de Horas e Sobreaviso
+Desenvolvimento de uma plataforma interna para controle de horas extras, banco de horas e escalas de sobreaviso, auxiliando na organização operacional e gestão das equipes.
 
 ---
 
-### Technical Documentation Platform
-Development of a centralized platform for storing and organizing technical documentation for internal teams and clients.
+### Cofre Seguro de Senhas
+Implementação de uma solução segura para armazenamento e gerenciamento de credenciais e senhas utilizadas pela equipe e ambientes de infraestrutura.
 
 ---
 
-### Team Task & Workflow Management System
-Development of an internal task and workflow management platform for tracking team activities, operational tasks and ongoing processes.
+### Plataforma de Documentação Técnica
+Desenvolvimento de uma plataforma centralizada para armazenamento e organização de documentações técnicas internas e de clientes.
 
 ---
 
-### CI/CD & Automation Implementation
-Implementation and standardization of CI/CD pipelines and deployment automation processes, replacing manual operational workflows and improving delivery reliability.
+### Sistema de Gestão de Tarefas e Fluxos Operacionais
+Desenvolvimento de uma plataforma interna para acompanhamento de tarefas, atividades operacionais e fluxos de trabalho das equipes.
+
+---
+
+### Implantação de CI/CD e Automação de Deploys
+Estruturação e implementação completa de pipelines de CI/CD e processos de automação de deploy, substituindo fluxos manuais e aumentando a padronização, confiabilidade e agilidade das entregas.
 
 ## Connect with me
 

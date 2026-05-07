@@ -6,47 +6,47 @@ Especializado em ambientes Cloud, Kubernetes, automação, CI/CD e observabilida
 
 ---
 
-## 🚀 Tech Stack
+##  Tech Stack
 
-### ☁️ Cloud
+###  Cloud
 
 <p>
   <img src="https://skillicons.dev/icons?i=aws,gcp" />
   <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" width="48"/>
 </p>
 
-### 🏗️ Infrastructure & IaC
+###  Infrastructure & IaC
 
 <p>
   <img src="https://skillicons.dev/icons?i=terraform,bash" />
 </p>
 
-### ☸️ Containers & Orchestration
+###  Containers & Orchestration
 
 <p>
   <img src="https://skillicons.dev/icons?i=docker,kubernetes" />
 </p>
 
-### 🔄 GitOps & CI/CD
+###  GitOps & CI/CD
 
 <p>
   <img src="https://skillicons.dev/icons?i=githubactions,gitlab,jenkins" />
 </p>
 
-### 📊 Monitoring & Observability
+###  Monitoring & Observability
 
 <p>
   <img src="https://skillicons.dev/icons?i=grafana,prometheus" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Zabbix_logo.svg" width="100"/>
 </p>
 
-### 💻 Development
+###  Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=js,ts,nodejs,python" />
 </p>
 
-### 🖥️ Operating Systems
+###  Operating Systems
 
 <p>
   <img src="https://skillicons.dev/icons?i=linux,windows" />

@@ -55,35 +55,33 @@ Especializado em ambientes Cloud, Kubernetes, automação, CI/CD e observabilida
 
 ---
 
-## Professional Projects
+## Professional Experience
 
-### Lustraview
-Cloud management and FinOps platform focused on Oracle Cloud Infrastructure (OCI), involving automation, monitoring, cost analysis and infrastructure management.
+### Cloud Management & FinOps Platform
+Development and maintenance of cloud management and FinOps solutions focused on Oracle Cloud Infrastructure (OCI), involving automation, monitoring, infrastructure management and cost analysis.
 
 **Tech:** OCI, Node.js, Redis, Docker, Grafana
 
 ---
 
-### Horabits
-Time tracking and work management platform with integrations, dashboards and automated workflows.
+### Time Tracking & Workflow Platform
+Development and support of time tracking and workflow management systems with dashboards, integrations and process automation.
 
 **Tech:** TypeScript, Node.js, Docker, PostgreSQL
 
 ---
 
-### LustraPass
-Secure password vault solution with encrypted credential management and authentication workflows.
+### Secure Credential Management Solution
+Implementation and maintenance of secure credential and password management solutions with encryption and authentication workflows.
 
 **Tech:** Node.js, AES-256, Docker, Linux
 
 ---
 
-### Lustradoc
-Document management and workflow platform running in containerized environments with CI/CD and observability stack.
+### Document Management Platform
+Containerized document management environments with CI/CD pipelines, observability and infrastructure automation.
 
 **Tech:** Kubernetes, Docker, GitLab CI/CD, Prometheus, Grafana
-
----
 
 ---
 

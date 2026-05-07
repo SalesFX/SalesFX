@@ -1,5 +1,3 @@
-#  Samuel Sales
-
 ## Cloud DevOps Engineer
 
 Especializado em ambientes Cloud, Kubernetes, automação, CI/CD e observabilidade.

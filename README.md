@@ -6,17 +6,41 @@ Especializado em ambientes Cloud, Kubernetes, automação, CI/CD e observabilida
 
 ---
 
-## Tech Stack
+## 🚀 Tech Stack
 
-![OCI](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+### ☁️ Cloud
+- Oracle Cloud Infrastructure (OCI)
+- AWS
+- Google Cloud Platform (GCP)
 
+### 🏗️ Infrastructure & IaC
+- Terraform
+- Shell Script
+
+### ☸️ Containers & Orchestration
+- Docker
+- Kubernetes (OKE)
+
+### 🔄 GitOps & CI/CD
+- ArgoCD
+- GitLab CI/CD
+- GitHub Actions
+- Jenkins
+
+### 📊 Monitoring & Observability
+- Zabbix
+- Grafana
+- Prometheus
+
+### 💻 Development
+- JavaScript
+- TypeScript
+- Node.js
+- Python
+
+### 🖥️ Operating Systems
+- Linux
+- Windows Server
 ---
 
 ## GitHub Stats

@@ -55,13 +55,35 @@ Especializado em ambientes Cloud, Kubernetes, automação, CI/CD e observabilida
 
 ---
 
-## Featured Projects
+## Professional Projects
 
-- Kubernetes & GitOps Labs
-- OCI Infrastructure Projects
-- Docker Swarm Environments
-- Terraform Infrastructure as Code
-- Monitoring Stack with Prometheus, Grafana and Zabbix
+### Lustraview
+Cloud management and FinOps platform focused on Oracle Cloud Infrastructure (OCI), involving automation, monitoring, cost analysis and infrastructure management.
+
+**Tech:** OCI, Node.js, Redis, Docker, Grafana
+
+---
+
+### Horabits
+Time tracking and work management platform with integrations, dashboards and automated workflows.
+
+**Tech:** TypeScript, Node.js, Docker, PostgreSQL
+
+---
+
+### LustraPass
+Secure password vault solution with encrypted credential management and authentication workflows.
+
+**Tech:** Node.js, AES-256, Docker, Linux
+
+---
+
+### Lustradoc
+Document management and workflow platform running in containerized environments with CI/CD and observability stack.
+
+**Tech:** Kubernetes, Docker, GitLab CI/CD, Prometheus, Grafana
+
+---
 
 ---
 

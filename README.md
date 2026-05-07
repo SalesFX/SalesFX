@@ -52,12 +52,6 @@ Especializado em ambientes Cloud, Kubernetes, automação, CI/CD e observabilida
   <img src="https://skillicons.dev/icons?i=linux,windows" />
 </p>
 
-## 📊 GitHub Stats
-
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SalesFX&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalesFX&layout=compact&theme=tokyonight"/>
-</p>
 ---
 
 ## Featured Projects

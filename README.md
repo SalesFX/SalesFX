@@ -16,7 +16,7 @@ Especializado em ambientes Cloud, Kubernetes, automação, CI/CD e observabilida
 ###  Infrastructure & IaC
 
 <p>
-  <img src="https://skillicons.dev/icons?i=terraform,bash" />
+  <img src="https://skillicons.dev/icons?i=terraform" />
 </p>
 
 ###  Containers & Orchestration

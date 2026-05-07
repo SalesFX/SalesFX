@@ -1,4 +1,4 @@
-# 👨‍💻 Samuel Sales
+#  Samuel Sales
 
 ## Cloud DevOps Engineer
 
@@ -9,39 +9,48 @@ Especializado em ambientes Cloud, Kubernetes, automação, CI/CD e observabilida
 ## 🚀 Tech Stack
 
 ### ☁️ Cloud
-- Oracle Cloud Infrastructure (OCI)
-- AWS
-- Google Cloud Platform (GCP)
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,gcp" />
+  <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" width="48"/>
+</p>
 
 ### 🏗️ Infrastructure & IaC
-- Terraform
-- Shell Script
+
+<p>
+  <img src="https://skillicons.dev/icons?i=terraform,bash" />
+</p>
 
 ### ☸️ Containers & Orchestration
-- Docker
-- Kubernetes (OKE)
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes" />
+</p>
 
 ### 🔄 GitOps & CI/CD
-- ArgoCD
-- GitLab CI/CD
-- GitHub Actions
-- Jenkins
+
+<p>
+  <img src="https://skillicons.dev/icons?i=githubactions,gitlab,jenkins" />
+</p>
 
 ### 📊 Monitoring & Observability
-- Zabbix
-- Grafana
-- Prometheus
+
+<p>
+  <img src="https://skillicons.dev/icons?i=grafana,prometheus" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Zabbix_logo.svg" width="100"/>
+</p>
 
 ### 💻 Development
-- JavaScript
-- TypeScript
-- Node.js
-- Python
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,python" />
+</p>
 
 ### 🖥️ Operating Systems
-- Linux
-- Windows Server
----
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,windows" />
+</p>
 
 ## GitHub Stats
 

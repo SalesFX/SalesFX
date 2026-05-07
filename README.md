@@ -37,7 +37,8 @@ Especializado em ambientes Cloud, Kubernetes, automação, CI/CD e observabilida
 
 <p>
   <img src="https://skillicons.dev/icons?i=grafana,prometheus" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Zabbix_logo.svg" width="100"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="0"/>
+  <img src="https://assets.zabbix.com/img/logo/zabbix_logo_500x131.png" height="48"/>
 </p>
 
 ###  Development

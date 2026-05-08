@@ -53,35 +53,6 @@ Especializado em ambientes Cloud, Kubernetes, automação, CI/CD e observabilida
 
 ---
 
-## Projetos Profissionais
-
-### Plataforma de Gestão Cloud & FinOps
-Desenvolvimento de uma plataforma voltada para gerenciamento de ambientes Oracle Cloud Infrastructure (OCI), com foco em visualização de recursos, monitoramento de custos, relatórios e acompanhamento financeiro da infraestrutura.
-
----
-
-### Plataforma de Horas Extras, Banco de Horas e Sobreaviso
-Desenvolvimento de uma plataforma interna para controle de horas extras, banco de horas e escalas de sobreaviso, auxiliando na organização operacional e gestão das equipes.
-
----
-
-### Cofre Seguro de Senhas
-Implementação de uma solução segura para armazenamento e gerenciamento de credenciais e senhas utilizadas pela equipe e ambientes de infraestrutura.
-
----
-
-### Plataforma de Documentação Técnica
-Desenvolvimento de uma plataforma centralizada para armazenamento e organização de documentações técnicas internas e de clientes.
-
----
-
-### Sistema de Gestão de Tarefas e Fluxos Operacionais
-Desenvolvimento de uma plataforma interna para acompanhamento de tarefas, atividades operacionais e fluxos de trabalho das equipes.
-
----
-
-### Implantação de CI/CD e Automação de Deploys
-Estruturação e implementação completa de pipelines de CI/CD e processos de automação de deploy, substituindo fluxos manuais e aumentando a padronização, confiabilidade e agilidade das entregas.
 
 ## Connect with me
 

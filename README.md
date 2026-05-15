@@ -9,11 +9,10 @@ Experiência com infraestrutura cloud, orquestração de containers com Kubernet
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=aws,gcp,terraform,ansible,docker,kubernetes,githubactions,gitlab,jenkins,grafana,prometheus,js,ts,nodejs,python,linux,windows" />
-</p>
 
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" width="45" title="Oracle Cloud Infrastructure"/>
-  <img src="https://assets.zabbix.com/img/logo/zabbix_logo_500x131.png" height="40" title="Zabbix"/>
+  <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" width="48"/>
+  
+  <img src="https://assets.zabbix.com/img/logo/zabbix_logo_500x131.png" height="38"/>
 </p>
 
 ---

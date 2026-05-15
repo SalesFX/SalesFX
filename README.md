@@ -8,11 +8,18 @@ Experiência com infraestrutura cloud, orquestração de containers com Kubernet
 ## Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,terraform,ansible,docker,kubernetes,githubactions,gitlab,jenkins,grafana,prometheus,js,ts,nodejs,python,linux,windows" />
+
+<img src="https://skillicons.dev/icons?i=aws,gcp,terraform,ansible,docker,kubernetes,githubactions,gitlab,jenkins,grafana,prometheus,js,ts,nodejs,python,linux,windows" />
+
 </p>
 
-Cloud: OCI, AWS, GCP  
-Observability: Grafana, Prometheus, Zabbix
+<p align="left">
+
+<img src="https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white" />
+
+</p>
 
 ---
 

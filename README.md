@@ -30,22 +30,6 @@ Experiência prática construindo plataformas cloud-native em AWS, Azure e Oracl
 
 ---
 
-## Especialidades
-
-☁️ Multi-Cloud: AWS, Azure e Oracle Cloud
-
-☸️ Kubernetes: EKS, AKS e OKE
-
-🔄 GitOps: ArgoCD
-
-📊 Observability: Grafana, Prometheus, Loki e Zabbix
-
-🛡️ DevSecOps: Trivy, Semgrep, Checkov e Gitleaks
-
-🤖 AI-Assisted Operations: Claude Code, Agents e Skills
-
----
-
 ## Projetos em Destaque
 
 | Projeto                                                                          | Stack                                   | Descrição                                                                                |

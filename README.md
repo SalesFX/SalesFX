@@ -1,7 +1,7 @@
 ## Sobre
 
-Especializado em Cloud, Kubernetes, automação, CI/CD e observabilidade.  
-Experiência com infraestrutura cloud, orquestração de containers com Kubernetes, GitOps, automação de pipelines e monitoramento de ambientes.
+<img width="1855" height="848" alt="image" src="https://github.com/user-attachments/assets/02c1cff0-f032-41a7-aa76-b628d15f453f" />
+
 
 ---
 

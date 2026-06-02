@@ -2,13 +2,9 @@
 
 <img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/6940274a-8553-4e62-9c4b-c48693c02b3c" />
 
+Cloud & DevOps Engineer focado em Kubernetes, Cloud Computing, GitOps, Observabilidade e Infrastructure as Code.
 
-
-
-
-
-
-
+Experiência prática construindo plataformas cloud-native em AWS, Azure e Oracle Cloud utilizando Terraform, Kubernetes, ArgoCD, GitHub Actions, GitLab CI/CD, Prometheus, Grafana e Loki.
 
 ---
 
@@ -26,18 +22,52 @@
 
 <img src="https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white" />
 
+<img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Loki-F2CC0C?style=for-the-badge&logo=grafana&logoColor=black" />
+
+<img src="https://img.shields.io/badge/VictoriaMetrics-621773?style=for-the-badge" />
+
 </p>
+
+---
+
+## Especialidades
+
+☁️ Multi-Cloud: AWS • Azure • Oracle Cloud
+
+☸️ Kubernetes: EKS • AKS • OKE
+
+🔄 GitOps: ArgoCD • App of Apps
+
+📊 Observability: Grafana • Prometheus • Loki • VictoriaMetrics • Zabbix
+
+🛡️ DevSecOps: Trivy • Semgrep • Checkov • Gitleaks
+
+🤖 AI-Assisted Operations: Claude Code • Agents • Skills
+
+---
+
+## Projetos em Destaque
+
+| Projeto                                                                          | Stack                                   | Descrição                                                                                |
+| -------------------------------------------------------------------------------- | --------------------------------------- | ---------------------------------------------------------------------------------------- |
+| 🚀 [AWS EKS DevOps Platform](https://github.com/SalesFX/eks-sre-devops-platform) | AWS • EKS • Terraform • ArgoCD          | Plataforma Cloud Native com GitOps, DevSecOps, Observabilidade, IRSA e Incident Response |
+| ☁️ [OCI AI DevOps Platform](https://github.com/SalesFX/oci-ai-devops-platform)   | OCI • OKE • Terraform • ArgoCD          | Plataforma DevOps completa para Oracle Cloud com GitOps e Observabilidade                |
+| 🧪 [AI SRE GitOps Lab](https://github.com/SalesFX/AI-SRE-GitOps-Lab)             | Kubernetes • GitLab CI • Grafana • Loki | Laboratório SRE com Chaos Engineering, Observabilidade e Rollback Automatizado           |
+| 🔷 [AKS Free Tier Terraform](https://github.com/SalesFX/aks-free-tier-terraform) | Azure • AKS • Terraform • OIDC          | Plataforma Kubernetes na Azure com Workload Identity e Autoscaling                       |
 
 ---
 
 ## Áreas de atuação
 
-- Cloud Computing
-- Kubernetes & Containers
-- Infrastructure as Code
-- CI/CD & GitOps
-- Observability & Monitoring
-- Linux & Windows Server
+* Cloud Computing
+* Kubernetes & Containers
+* Infrastructure as Code
+* CI/CD & GitOps
+* Observability & Monitoring
+* DevSecOps
+* Linux & Windows Server
 
 ---
 

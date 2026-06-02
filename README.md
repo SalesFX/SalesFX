@@ -43,15 +43,6 @@ Experiência prática construindo plataformas cloud-native em AWS, Azure e Oracl
 
 ---
 
-## Áreas de atuação
-
-* Cloud Computing
-* Kubernetes & Containers
-* Infrastructure as Code
-* CI/CD & GitOps
-* Observability & Monitoring
-* DevSecOps
-* Linux & Windows Server
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/SalesFX/SalesFX/output/pacman-contribution-graph-dark.svg" alt="Pacman contribution graph">

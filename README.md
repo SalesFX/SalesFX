@@ -12,7 +12,7 @@ Experiência prática construindo plataformas cloud-native em AWS, Azure e Oracl
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=aws,gcp,terraform,ansible,docker,kubernetes,githubactions,gitlab,jenkins,grafana,prometheus,js,ts,nodejs,python,linux,windows" />
+<img src="https://skillicons.dev/icons?i=aws,gcp,terraform,ansible,docker,kubernetes,githubactions,gitlab,jenkins,grafana,prometheus,nodejs,python,linux,windows" />
 
 </p>
 
@@ -26,25 +26,23 @@ Experiência prática construindo plataformas cloud-native em AWS, Azure e Oracl
 
 <img src="https://img.shields.io/badge/Loki-F2CC0C?style=for-the-badge&logo=grafana&logoColor=black" />
 
-<img src="https://img.shields.io/badge/VictoriaMetrics-621773?style=for-the-badge" />
-
 </p>
 
 ---
 
 ## Especialidades
 
-☁️ Multi-Cloud: AWS • Azure • Oracle Cloud
+☁️ Multi-Cloud: AWS, Azure e Oracle Cloud
 
-☸️ Kubernetes: EKS • AKS • OKE
+☸️ Kubernetes: EKS, AKS e OKE
 
-🔄 GitOps: ArgoCD • App of Apps
+🔄 GitOps: ArgoCD
 
-📊 Observability: Grafana • Prometheus • Loki • VictoriaMetrics • Zabbix
+📊 Observability: Grafana, Prometheus, Loki e Zabbix
 
-🛡️ DevSecOps: Trivy • Semgrep • Checkov • Gitleaks
+🛡️ DevSecOps: Trivy, Semgrep, Checkov e Gitleaks
 
-🤖 AI-Assisted Operations: Claude Code • Agents • Skills
+🤖 AI-Assisted Operations: Claude Code, Agents e Skills
 
 ---
 

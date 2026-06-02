@@ -1,6 +1,7 @@
 ## Sobre
 
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/2039d055-daa8-4f9d-9287-2cc61690c943" />
+<img width="1412" height="446" alt="ChatGPT Image 2_06_2026, 09_59_37-Photoroom" src="https://github.com/user-attachments/assets/e4d13761-12d2-4360-9129-60cee09e3268" />
+
 
 
 

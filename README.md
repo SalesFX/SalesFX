@@ -54,8 +54,8 @@ Experiência prática construindo plataformas cloud-native em AWS, Azure e Oracl
 * Linux & Windows Server
 
 ## Activity
-   <p align="center">
-  <img src="https://raw.githubusercontent.com/SalesFX/SalesFX/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SalesFX/SalesFX/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---

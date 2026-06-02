@@ -1,6 +1,7 @@
 ## Sobre
 
-<img width="1536" height="473" alt="Sem título" src="https://github.com/user-attachments/assets/1ef9dcbb-8ee5-4409-a8b1-31e098721058" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/d8cc91bb-6e5c-4ac1-acdf-716a6f5a726f" />
+
 
 
 

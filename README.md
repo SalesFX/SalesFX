@@ -1,6 +1,7 @@
 ## Sobre
 
-<img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/6940274a-8553-4e62-9c4b-c48693c02b3c" />
+<img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/88f92934-b01d-4f93-a95e-8b9bf24928db" />
+
 
 Cloud & DevOps Engineer focado em Kubernetes, Cloud Computing, GitOps, Observabilidade e Infrastructure as Code.
 

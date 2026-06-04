@@ -14,9 +14,6 @@ Experiência prática construindo plataformas cloud-native em AWS, Azure e Oracl
 
 <h2 align="center">⚙️ Tech Stack</h2>
 
-<p align="center">
-  <strong>Cloud • DevOps • SRE • Kubernetes • GitOps • Observability • Automation</strong>
-</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,gcp,terraform,ansible,docker,kubernetes,githubactions,gitlab,jenkins,grafana,prometheus,nodejs,python,linux,windows" />
@@ -35,9 +32,6 @@ Experiência prática construindo plataformas cloud-native em AWS, Azure e Oracl
 
 <h2 align="center">🚀 Projetos em Destaque</h2>
 
-<p align="center">
-  <strong>Cloud Native Platforms • GitOps • DevSecOps • CI/CD • Infrastructure as Code</strong>
-</p>
 
 <br>
 

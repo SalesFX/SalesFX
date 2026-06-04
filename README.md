@@ -1,10 +1,3 @@
-
-Aí o GitHub entendeu como **bloco de código**, não como README renderizado. Também tinha um `|` solto depois do bloco.
-
-Aqui está corrigido completo, tudo como uma coisa só para colar no README:
-
-:::writing{variant="standard" id="61847"}
-```md
 ## Sobre
 
 <img width="2508" height="627" alt="Samuel Sales - Cloud & DevOps Engineer" src="https://github.com/user-attachments/assets/be54f723-f59c-4481-adfe-58376205af96" />

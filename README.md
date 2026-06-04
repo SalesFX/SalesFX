@@ -13,37 +13,51 @@ Experiência prática construindo plataformas cloud-native em AWS, Azure e Oracl
 
 ---
 
-## Tech Stack
+```md
+<br>
 
-<p align="left">
+<h2 align="center">⚙️ Tech Stack</h2>
 
-<img src="https://skillicons.dev/icons?i=aws,gcp,terraform,ansible,docker,kubernetes,githubactions,gitlab,jenkins,grafana,prometheus,nodejs,python,linux,windows" />
-
+<p align="center">
+  <strong>Cloud • DevOps • SRE • Kubernetes • GitOps • Observability • Automation</strong>
 </p>
 
-<p align="left">
-
-<img src="https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white" />
-
-<img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Loki-F2CC0C?style=for-the-badge&logo=grafana&logoColor=black" />
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,terraform,ansible,docker,kubernetes,githubactions,gitlab,jenkins,grafana,prometheus,nodejs,python,linux,windows" />
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white" />
+  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Loki-F2CC0C?style=for-the-badge&logo=grafana&logoColor=black" />
+</p>
+
+<br>
 
 ---
 
-## Projetos em Destaque
+<br>
 
-| Projeto                                                                            | Stack                                          | Descrição                                                                                                                               |
-| ---------------------------------------------------------------------------------- | ---------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
-| 🚀 [AWS EKS DevOps Platform](https://github.com/SalesFX/eks-sre-devops-platform)   | AWS • EKS • Terraform • ArgoCD                 | Plataforma Cloud Native com GitOps, DevSecOps, Observabilidade, IRSA e Incident Response                                                |
-| 🔵🟢 [Blue-Green Deployment on AWS EKS](https://github.com/SalesFX/app-blue-green) | AWS • EKS • Terraform • Python • OIDC         | Estratégia completa de Blue-Green Deployment com zero downtime, health checks automáticos, rollback instantâneo e pipeline CI/CD seguro |
-| ☁️ [OCI AI DevOps Platform](https://github.com/SalesFX/oci-ai-devops-platform)     | OCI • OKE • Terraform • ArgoCD                 | Plataforma DevOps completa para Oracle Cloud com GitOps e Observabilidade                                                               |
-| 🧪 [AI SRE GitOps Lab](https://github.com/SalesFX/AI-SRE-GitOps-Lab)               | Kubernetes • GitLab CI • Grafana • Loki        | Laboratório SRE com Chaos Engineering, Observabilidade e Rollback Automatizado                                                          |
-| 🔷 [AKS Free Tier Terraform](https://github.com/SalesFX/aks-free-tier-terraform)   | Azure • AKS • Terraform • OIDC                 | Plataforma Kubernetes na Azure com Workload Identity e Autoscaling                                                                      |
+<h2 align="center">🚀 Projetos em Destaque</h2>
+
+<p align="center">
+  <strong>Cloud Native Platforms • GitOps • DevSecOps • CI/CD • Infrastructure as Code</strong>
+</p>
+
+<br>
+
+| Projeto | Descrição |
+| ------- | --------- |
+| 🚀 [AWS EKS DevOps Platform](https://github.com/SalesFX/eks-sre-devops-platform) | Plataforma Cloud Native com GitOps, DevSecOps, Observabilidade, IRSA e Incident Response.<br><br>`AWS` `EKS` `Terraform` `ArgoCD` `GitHub Actions` `Prometheus` `Grafana` |
+| 🔵🟢 [Blue-Green Deployment on AWS EKS](https://github.com/SalesFX/app-blue-green) | Estratégia completa de Blue-Green Deployment com zero downtime, health checks automáticos, rollback instantâneo e pipeline CI/CD seguro.<br><br>`AWS` `EKS` `Terraform` `Python` `OIDC` `GitHub Actions` |
+| ☁️ [OCI AI DevOps Platform](https://github.com/SalesFX/oci-ai-devops-platform) | Plataforma DevOps completa para Oracle Cloud com GitOps, Kubernetes, automação de infraestrutura e observabilidade.<br><br>`OCI` `OKE` `Terraform` `ArgoCD` `Grafana` |
+| 🧪 [AI SRE GitOps Lab](https://github.com/SalesFX/AI-SRE-GitOps-Lab) | Laboratório SRE com Chaos Engineering, observabilidade, logs centralizados, rollback automatizado e práticas de confiabilidade.<br><br>`Kubernetes` `GitLab CI` `Grafana` `Loki` `SRE` |
+| 🔷 [AKS Free Tier Terraform](https://github.com/SalesFX/aks-free-tier-terraform) | Plataforma Kubernetes na Azure com provisionamento via Terraform, Workload Identity, OIDC e autoscaling.<br><br>`Azure` `AKS` `Terraform` `OIDC` `Autoscaling` |
+
+<br>
+```
+|
 
 
 ---

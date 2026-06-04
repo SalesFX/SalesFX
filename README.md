@@ -1,9 +1,13 @@
+
+Aí o GitHub entendeu como **bloco de código**, não como README renderizado. Também tinha um `|` solto depois do bloco.
+
+Aqui está corrigido completo, tudo como uma coisa só para colar no README:
+
+:::writing{variant="standard" id="61847"}
+```md
 ## Sobre
 
-<img width="2508" height="627" alt="image" src="https://github.com/user-attachments/assets/be54f723-f59c-4481-adfe-58376205af96" />
-
-
-
+<img width="2508" height="627" alt="Samuel Sales - Cloud & DevOps Engineer" src="https://github.com/user-attachments/assets/be54f723-f59c-4481-adfe-58376205af96" />
 
 ---
 
@@ -13,7 +17,6 @@ Experiência prática construindo plataformas cloud-native em AWS, Azure e Oracl
 
 ---
 
-```md
 <br>
 
 <h2 align="center">⚙️ Tech Stack</h2>
@@ -32,8 +35,6 @@ Experiência prática construindo plataformas cloud-native em AWS, Azure e Oracl
   <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" />
   <img src="https://img.shields.io/badge/Loki-F2CC0C?style=for-the-badge&logo=grafana&logoColor=black" />
 </p>
-
-<br>
 
 ---
 
@@ -55,13 +56,9 @@ Experiência prática construindo plataformas cloud-native em AWS, Azure e Oracl
 | 🧪 [AI SRE GitOps Lab](https://github.com/SalesFX/AI-SRE-GitOps-Lab) | Laboratório SRE com Chaos Engineering, observabilidade, logs centralizados, rollback automatizado e práticas de confiabilidade.<br><br>`Kubernetes` `GitLab CI` `Grafana` `Loki` `SRE` |
 | 🔷 [AKS Free Tier Terraform](https://github.com/SalesFX/aks-free-tier-terraform) | Plataforma Kubernetes na Azure com provisionamento via Terraform, Workload Identity, OIDC e autoscaling.<br><br>`Azure` `AKS` `Terraform` `OIDC` `Autoscaling` |
 
-<br>
-```
-|
-
-
 ---
 
+<br>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/SalesFX/SalesFX/output/pacman-contribution-graph-dark.svg" alt="Pacman contribution graph">
@@ -69,9 +66,11 @@ Experiência prática construindo plataformas cloud-native em AWS, Azure e Oracl
 
 ---
 
-## Connect with me
+<br>
 
-<p align="left">
+<h2 align="center">📫 Connect with me</h2>
+
+<p align="center">
   <a href="https://linkedin.com/in/samuelsalesme" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Samuel%20Sales-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>

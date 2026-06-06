@@ -35,109 +35,106 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="110">
-      <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="55" height="55" alt="AWS" />
+    <td align="center" width="100">
+      <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="50" height="50" alt="AWS" />
       <br><strong>AWS</strong>
     </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=azure" width="55" height="55" alt="Azure" />
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=azure" width="50" height="50" alt="Azure" />
       <br><strong>Azure</strong>
     </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=gcp" width="55" height="55" alt="GCP" />
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=gcp" width="50" height="50" alt="GCP" />
       <br><strong>GCP</strong>
     </td>
-    <td align="center" width="110">
-      <img src="https://img.shields.io/badge/OCI-F80000?style=for-the-badge&logo=oracle&logoColor=white" height="35" alt="Oracle Cloud" />
-      <br><strong>Oracle Cloud</strong>
+    <td align="center" width="100">
+      <img src="https://img.shields.io/badge/OCI-F80000?style=for-the-badge&logo=oracle&logoColor=white" height="30" alt="Oracle Cloud" />
+      <br><strong>OCI</strong>
     </td>
-    <td align="center" width="110">
-      <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="55" height="55" alt="Kubernetes" />
+    <td align="center" width="100">
+      <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="50" height="50" alt="Kubernetes" />
       <br><strong>Kubernetes</strong>
     </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=terraform" width="55" height="55" alt="Terraform" />
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=terraform" width="50" height="50" alt="Terraform" />
       <br><strong>Terraform</strong>
     </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="110">
-      <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="55" height="55" alt="Docker" />
+    <td align="center" width="100">
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="50" height="50" alt="Docker" />
       <br><strong>Docker</strong>
     </td>
-    <td align="center" width="110">
-      <img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="55" height="55" alt="NGINX" />
+    <td align="center" width="100">
+      <img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="50" height="50" alt="NGINX" />
       <br><strong>NGINX</strong>
     </td>
-    <td align="center" width="110">
-      <img src="https://icon.icepanel.io/Technology/svg/Argo-CD.svg" width="55" height="55" alt="ArgoCD" />
+  </tr>
+
+  <tr>
+    <td align="center" width="100">
+      <img src="https://icon.icepanel.io/Technology/svg/Argo-CD.svg" width="50" height="50" alt="ArgoCD" />
       <br><strong>ArgoCD</strong>
     </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=githubactions" width="55" height="55" alt="GitHub Actions" />
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=githubactions" width="50" height="50" alt="GitHub Actions" />
       <br><strong>GitHub Actions</strong>
     </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=gitlab" width="55" height="55" alt="GitLab CI/CD" />
-      <br><strong>GitLab CI/CD</strong>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=gitlab" width="50" height="50" alt="GitLab CI/CD" />
+      <br><strong>GitLab CI</strong>
     </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=jenkins" width="55" height="55" alt="Jenkins" />
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=jenkins" width="50" height="50" alt="Jenkins" />
       <br><strong>Jenkins</strong>
     </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=grafana" width="55" height="55" alt="Grafana" />
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=grafana" width="50" height="50" alt="Grafana" />
       <br><strong>Grafana</strong>
     </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=prometheus" width="55" height="55" alt="Prometheus" />
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=prometheus" width="50" height="50" alt="Prometheus" />
       <br><strong>Prometheus</strong>
     </td>
-    <td align="center" width="110">
-      <img src="https://img.shields.io/badge/Loki-F2CC0C?style=for-the-badge&logo=grafana&logoColor=black" height="35" alt="Loki" />
+    <td align="center" width="100">
+      <img src="https://img.shields.io/badge/Loki-F2CC0C?style=for-the-badge&logo=grafana&logoColor=black" height="30" alt="Loki" />
       <br><strong>Loki</strong>
     </td>
-    <td align="center" width="110">
-      <img src="https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white" height="35" alt="Zabbix" />
+    <td align="center" width="100">
+      <img src="https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white" height="30" alt="Zabbix" />
       <br><strong>Zabbix</strong>
-    </td>
-    <td align="center" width="110">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="55" height="55" alt="GitHub" />
-      <br><strong>GitHub</strong>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=git" width="55" height="55" alt="Git" />
-      <br><strong>Git</strong>
     </td>
   </tr>
 
   <tr>
-    <td align="center" width="110">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="55" height="55" alt="Python" />
+    <td align="center" width="100">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="50" height="50" alt="GitHub" />
+      <br><strong>GitHub</strong>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=git" width="50" height="50" alt="Git" />
+      <br><strong>Git</strong>
+    </td>
+    <td align="center" width="100">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="50" height="50" alt="Python" />
       <br><strong>Python</strong>
     </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="55" height="55" alt="Node.js" />
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="50" height="50" alt="Node.js" />
       <br><strong>Node.js</strong>
     </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=linux" width="55" height="55" alt="Linux" />
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=linux" width="50" height="50" alt="Linux" />
       <br><strong>Linux</strong>
     </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=windows" width="55" height="55" alt="Windows" />
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=windows" width="50" height="50" alt="Windows" />
       <br><strong>Windows</strong>
     </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=postgres" width="55" height="55" alt="PostgreSQL" />
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=postgres" width="50" height="50" alt="PostgreSQL" />
       <br><strong>PostgreSQL</strong>
     </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=mysql" width="55" height="55" alt="MySQL" />
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=mysql" width="50" height="50" alt="MySQL" />
       <br><strong>MySQL</strong>
     </td>
   </tr>

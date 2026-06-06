@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img width="2508" height="627" alt="Samuel Sales - Cloud & DevOps Engineer" src="https://github.com/user-attachments/assets/be54f723-f59c-4481-adfe-58376205af96" />
+  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" alt="Dino animation" width="900" />
 </p>
 
 ---
@@ -25,7 +25,22 @@ Experiência prática construindo plataformas cloud-native em **AWS, Azure e Ora
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,terraform,ansible,docker,kubernetes,githubactions,gitlab,jenkins,grafana,prometheus,nodejs,python,linux,windows" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=850&height=60&lines=AWS+%7C+Azure+%7C+Oracle+Cloud;Kubernetes+%7C+Terraform+%7C+ArgoCD;Prometheus+%7C+Grafana+%7C+Loki;CI%2FCD+%7C+GitOps+%7C+Observability" alt="Animated stack text" />
+</p>
+
+<p align="center">
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="80" alt="AWS" />
+  <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="80" alt="Kubernetes" />
+  <img src="https://techstack-generator.vercel.app/terraform-icon.svg" width="80" alt="Terraform" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="80" alt="Docker" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" width="80" alt="GitHub" />
+  <img src="https://techstack-generator.vercel.app/gitlab-icon.svg" width="80" alt="GitLab" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="80" alt="Python" />
+  <img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="80" alt="NGINX" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=azure,gcp,ansible,githubactions,jenkins,grafana,prometheus,nodejs,linux,windows" />
 </p>
 
 <p align="center">

@@ -1,5 +1,3 @@
-<h1 align="center">Samuel Sales</h1>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&height=90&lines=Samuel+Sales;Cloud+%26+DevOps+Engineer" alt="Typing SVG" />
 </p>

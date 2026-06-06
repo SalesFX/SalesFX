@@ -1,7 +1,7 @@
 <h1 align="center">Samuel Sales</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&height=80&lines=Cloud+%26+DevOps+Engineer;Kubernetes+%7C+Terraform+%7C+AWS+%7C+GitOps;Observability+%7C+CI%2FCD+%7C+Infrastructure+as+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&height=90&lines=Samuel+Sales;Cloud+%26+DevOps+Engineer" alt="Typing SVG" />
 </p>
 
 <p align="center">

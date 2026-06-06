@@ -6,10 +6,6 @@
   <strong>Cloud & DevOps Engineer</strong> focado em Kubernetes, Cloud Computing, GitOps, Observabilidade e Infrastructure as Code.
 </p>
 
-<p align="center">
-  Experiência prática construindo plataformas cloud-native em <strong>AWS e Oracle Cloud</strong>, utilizando <strong>Terraform, Kubernetes, ArgoCD, GitHub Actions, GitLab CI/CD, Prometheus, Grafana e Zabbix</strong>.
-</p>
-
 ---
 
 <h2 align="center">📫 Contato</h2>

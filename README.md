@@ -1,22 +1,31 @@
-## Sobre
+<h1 align="center">Samuel Sales</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&height=120&lines=Hi%2C+I'm+Samuel+Sales;Cloud+%26+DevOps+Engineer;Kubernetes+%7C+Terraform+%7C+AWS+%7C+GitOps;Building+Cloud-Native+Platforms" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&height=80&lines=Cloud+%26+DevOps+Engineer;Kubernetes+%7C+Terraform+%7C+AWS+%7C+GitOps;Observability+%7C+CI%2FCD+%7C+Infrastructure+as+Code" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" alt="Dino animation" width="900" />
+  <strong>Cloud & DevOps Engineer</strong> focado em Kubernetes, Cloud Computing, GitOps, Observabilidade e Infrastructure as Code.
+</p>
+
+<p align="center">
+  Experiência prática construindo plataformas cloud-native em <strong>AWS, Azure e Oracle Cloud</strong>, utilizando <strong>Terraform, Kubernetes, ArgoCD, GitHub Actions, GitLab CI/CD, Prometheus, Grafana e Loki</strong>.
 </p>
 
 ---
 
-Cloud & DevOps Engineer focado em **Kubernetes, Cloud Computing, GitOps, Observabilidade e Infrastructure as Code**.
+<h2 align="center">📫 Contato</h2>
 
-Experiência prática construindo plataformas cloud-native em **AWS, Azure e Oracle Cloud**, utilizando **Terraform, Kubernetes, ArgoCD, GitHub Actions, GitLab CI/CD, Prometheus, Grafana e Loki**.
+<p align="center">
+  <a href="https://linkedin.com/in/samuelsalesme" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Samuel%20Sales-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/SalesFX" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-SalesFX-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
-
-<br>
 
 <h2 align="center">⚙️ Tech Stack</h2>
 
@@ -24,39 +33,125 @@ Experiência prática construindo plataformas cloud-native em **AWS, Azure e Ora
   <strong>Cloud • DevOps • SRE • Kubernetes • GitOps • Observability • Automation</strong>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=850&height=60&lines=AWS+%7C+Azure+%7C+Oracle+Cloud;Kubernetes+%7C+Terraform+%7C+ArgoCD;Prometheus+%7C+Grafana+%7C+Loki;CI%2FCD+%7C+GitOps+%7C+Observability" alt="Animated stack text" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="100">
+      <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="55" height="55" alt="AWS" />
+      <br><strong>AWS</strong>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=azure" width="55" height="55" alt="Azure" />
+      <br><strong>Azure</strong>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=gcp" width="55" height="55" alt="GCP" />
+      <br><strong>GCP</strong>
+    </td>
+    <td align="center" width="100">
+      <img src="https://img.shields.io/badge/OCI-F80000?style=for-the-badge&logo=oracle&logoColor=white" height="35" alt="Oracle Cloud" />
+      <br><strong>Oracle Cloud</strong>
+    </td>
+  </tr>
 
-<p align="center">
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="80" alt="AWS" />
-  <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="80" alt="Kubernetes" />
-  <img src="https://techstack-generator.vercel.app/terraform-icon.svg" width="80" alt="Terraform" />
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="80" alt="Docker" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" width="80" alt="GitHub" />
-  <img src="https://techstack-generator.vercel.app/gitlab-icon.svg" width="80" alt="GitLab" />
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="80" alt="Python" />
-  <img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="80" alt="NGINX" />
-</p>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="55" height="55" alt="Kubernetes" />
+      <br><strong>Kubernetes</strong>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=terraform" width="55" height="55" alt="Terraform" />
+      <br><strong>Terraform</strong>
+    </td>
+    <td align="center" width="100">
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="55" height="55" alt="Docker" />
+      <br><strong>Docker</strong>
+    </td>
+    <td align="center" width="100">
+      <img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="55" height="55" alt="NGINX" />
+      <br><strong>NGINX</strong>
+    </td>
+  </tr>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=azure,gcp,ansible,githubactions,jenkins,grafana,prometheus,nodejs,linux,windows" />
-</p>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" height="35" alt="ArgoCD" />
+      <br><strong>ArgoCD</strong>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=githubactions" width="55" height="55" alt="GitHub Actions" />
+      <br><strong>GitHub Actions</strong>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=gitlab" width="55" height="55" alt="GitLab CI/CD" />
+      <br><strong>GitLab CI/CD</strong>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=jenkins" width="55" height="55" alt="Jenkins" />
+      <br><strong>Jenkins</strong>
+    </td>
+  </tr>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white" />
-  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" />
-  <img src="https://img.shields.io/badge/Loki-F2CC0C?style=for-the-badge&logo=grafana&logoColor=black" />
-</p>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=grafana" width="55" height="55" alt="Grafana" />
+      <br><strong>Grafana</strong>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=prometheus" width="55" height="55" alt="Prometheus" />
+      <br><strong>Prometheus</strong>
+    </td>
+    <td align="center" width="100">
+      <img src="https://img.shields.io/badge/Loki-F2CC0C?style=for-the-badge&logo=grafana&logoColor=black" height="35" alt="Loki" />
+      <br><strong>Loki</strong>
+    </td>
+    <td align="center" width="100">
+      <img src="https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white" height="35" alt="Zabbix" />
+      <br><strong>Zabbix</strong>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="100">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="55" height="55" alt="GitHub" />
+      <br><strong>GitHub</strong>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=git" width="55" height="55" alt="Git" />
+      <br><strong>Git</strong>
+    </td>
+    <td align="center" width="100">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="55" height="55" alt="Python" />
+      <br><strong>Python</strong>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="55" height="55" alt="Node.js" />
+      <br><strong>Node.js</strong>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=linux" width="55" height="55" alt="Linux" />
+      <br><strong>Linux</strong>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=windows" width="55" height="55" alt="Windows" />
+      <br><strong>Windows</strong>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=postgres" width="55" height="55" alt="PostgreSQL" />
+      <br><strong>PostgreSQL</strong>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=mysql" width="55" height="55" alt="MySQL" />
+      <br><strong>MySQL</strong>
+    </td>
+  </tr>
+</table>
 
 ---
 
-<br>
-
 <h2 align="center">🚀 Projetos em Destaque</h2>
-
-<br>
 
 | Projeto                                                                            | Descrição                                                                                                                                                                                                |
 | ---------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -68,25 +163,16 @@ Experiência prática construindo plataformas cloud-native em **AWS, Azure e Ora
 
 ---
 
-<br>
+<h2 align="center">📊 GitHub Stats</h2>
 
-<h2 align="center">📊 GitHub Activity</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SalesFX&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=SalesFX&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/SalesFX/SalesFX/output/pacman-contribution-graph-dark.svg" alt="Pacman contribution graph">
-</p>
-
----
-
-<br>
-
-<h2 align="center">📫 Connect with me</h2>
-
-<p align="center">
-  <a href="https://linkedin.com/in/samuelsalesme" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Samuel%20Sales-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/SalesFX" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-SalesFX-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
 </p>

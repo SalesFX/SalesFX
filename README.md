@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  Experiência prática construindo plataformas cloud-native em <strong>AWS, Azure e Oracle Cloud</strong>, utilizando <strong>Terraform, Kubernetes, ArgoCD, GitHub Actions, GitLab CI/CD, Prometheus, Grafana e Loki</strong>.
+  Experiência prática construindo plataformas cloud-native em <strong>AWS e Oracle Cloud</strong>, utilizando <strong>Terraform, Kubernetes, ArgoCD, GitHub Actions, GitLab CI/CD, Prometheus, Grafana e Zabbix</strong>.
 </p>
 
 ---
@@ -35,106 +35,87 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="100">
-      <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="50" height="50" alt="AWS" />
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="45" height="45" alt="AWS" />
       <br><strong>AWS</strong>
     </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=azure" width="50" height="50" alt="Azure" />
-      <br><strong>Azure</strong>
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=gcp" width="50" height="50" alt="GCP" />
-      <br><strong>GCP</strong>
-    </td>
-    <td align="center" width="100">
-      <img src="https://img.shields.io/badge/OCI-F80000?style=for-the-badge&logo=oracle&logoColor=white" height="30" alt="Oracle Cloud" />
+    <td align="center" width="90">
+      <img src="https://img.shields.io/badge/OCI-F80000?style=for-the-badge&logo=oracle&logoColor=white" height="28" alt="Oracle Cloud" />
       <br><strong>OCI</strong>
     </td>
-    <td align="center" width="100">
-      <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="50" height="50" alt="Kubernetes" />
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="45" height="45" alt="Kubernetes" />
       <br><strong>Kubernetes</strong>
     </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=terraform" width="50" height="50" alt="Terraform" />
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=terraform" width="45" height="45" alt="Terraform" />
       <br><strong>Terraform</strong>
     </td>
-    <td align="center" width="100">
-      <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="50" height="50" alt="Docker" />
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="45" height="45" alt="Docker" />
       <br><strong>Docker</strong>
     </td>
-    <td align="center" width="100">
-      <img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="50" height="50" alt="NGINX" />
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="45" height="45" alt="NGINX" />
       <br><strong>NGINX</strong>
     </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="100">
-      <img src="https://icon.icepanel.io/Technology/svg/Argo-CD.svg" width="50" height="50" alt="ArgoCD" />
+    <td align="center" width="90">
+      <img src="https://icon.icepanel.io/Technology/svg/Argo-CD.svg" width="45" height="45" alt="ArgoCD" />
       <br><strong>ArgoCD</strong>
     </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=githubactions" width="50" height="50" alt="GitHub Actions" />
-      <br><strong>GitHub Actions</strong>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=githubactions" width="45" height="45" alt="GitHub Actions" />
+      <br><strong>Actions</strong>
     </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=gitlab" width="50" height="50" alt="GitLab CI/CD" />
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=gitlab" width="45" height="45" alt="GitLab CI/CD" />
       <br><strong>GitLab CI</strong>
     </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=jenkins" width="50" height="50" alt="Jenkins" />
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=jenkins" width="45" height="45" alt="Jenkins" />
       <br><strong>Jenkins</strong>
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=grafana" width="50" height="50" alt="Grafana" />
-      <br><strong>Grafana</strong>
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=prometheus" width="50" height="50" alt="Prometheus" />
-      <br><strong>Prometheus</strong>
-    </td>
-    <td align="center" width="100">
-      <img src="https://img.shields.io/badge/Loki-F2CC0C?style=for-the-badge&logo=grafana&logoColor=black" height="30" alt="Loki" />
-      <br><strong>Loki</strong>
-    </td>
-    <td align="center" width="100">
-      <img src="https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white" height="30" alt="Zabbix" />
-      <br><strong>Zabbix</strong>
     </td>
   </tr>
 
   <tr>
-    <td align="center" width="100">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="50" height="50" alt="GitHub" />
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=grafana" width="45" height="45" alt="Grafana" />
+      <br><strong>Grafana</strong>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=prometheus" width="45" height="45" alt="Prometheus" />
+      <br><strong>Prometheus</strong>
+    </td>
+    <td align="center" width="90">
+      <img src="https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white" height="28" alt="Zabbix" />
+      <br><strong>Zabbix</strong>
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="45" height="45" alt="GitHub" />
       <br><strong>GitHub</strong>
     </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=git" width="50" height="50" alt="Git" />
-      <br><strong>Git</strong>
-    </td>
-    <td align="center" width="100">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="50" height="50" alt="Python" />
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="45" height="45" alt="Python" />
       <br><strong>Python</strong>
     </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="50" height="50" alt="Node.js" />
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Node.js" />
       <br><strong>Node.js</strong>
     </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=linux" width="50" height="50" alt="Linux" />
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=linux" width="45" height="45" alt="Linux" />
       <br><strong>Linux</strong>
     </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=windows" width="50" height="50" alt="Windows" />
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=windows" width="45" height="45" alt="Windows" />
       <br><strong>Windows</strong>
     </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=postgres" width="50" height="50" alt="PostgreSQL" />
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" alt="PostgreSQL" />
       <br><strong>PostgreSQL</strong>
     </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=mysql" width="50" height="50" alt="MySQL" />
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" alt="MySQL" />
       <br><strong>MySQL</strong>
     </td>
   </tr>
@@ -149,8 +130,8 @@
 | 🚀 [AWS EKS DevOps Platform](https://github.com/SalesFX/eks-sre-devops-platform)   | Plataforma Cloud Native com GitOps, DevSecOps, Observabilidade, IRSA e Incident Response.<br><br>`AWS` `EKS` `Terraform` `ArgoCD` `GitHub Actions` `Prometheus` `Grafana`                                |
 | 🔵🟢 [Blue-Green Deployment on AWS EKS](https://github.com/SalesFX/app-blue-green) | Estratégia completa de Blue-Green Deployment com zero downtime, health checks automáticos, rollback instantâneo e pipeline CI/CD seguro.<br><br>`AWS` `EKS` `Terraform` `Python` `OIDC` `GitHub Actions` |
 | ☁️ [OCI AI DevOps Platform](https://github.com/SalesFX/oci-ai-devops-platform)     | Plataforma DevOps completa para Oracle Cloud com GitOps, Kubernetes, automação de infraestrutura e observabilidade.<br><br>`OCI` `OKE` `Terraform` `ArgoCD` `Grafana`                                    |
-| 🧪 [AI SRE GitOps Lab](https://github.com/SalesFX/AI-SRE-GitOps-Lab)               | Laboratório SRE com Chaos Engineering, observabilidade, logs centralizados, rollback automatizado e práticas de confiabilidade.<br><br>`Kubernetes` `GitLab CI` `Grafana` `Loki` `SRE`                   |
-| 🔷 [AKS Free Tier Terraform](https://github.com/SalesFX/aks-free-tier-terraform)   | Plataforma Kubernetes na Azure com provisionamento via Terraform, Workload Identity, OIDC e autoscaling.<br><br>`Azure` `AKS` `Terraform` `OIDC` `Autoscaling`                                           |
+| 🧪 [AI SRE GitOps Lab](https://github.com/SalesFX/AI-SRE-GitOps-Lab)               | Laboratório SRE com Chaos Engineering, observabilidade, logs centralizados, rollback automatizado e práticas de confiabilidade.<br><br>`Kubernetes` `GitLab CI` `Grafana` `SRE`                          |
+| 🔷 [AKS Free Tier Terraform](https://github.com/SalesFX/aks-free-tier-terraform)   | Projeto prático de estudos em Azure Kubernetes Service, com provisionamento via Terraform, Workload Identity, OIDC e autoscaling.<br><br>`Azure` `AKS` `Terraform` `OIDC` `Autoscaling`                  |
 
 ---
 

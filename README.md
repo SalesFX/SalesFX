@@ -27,10 +27,6 @@
 
 <h2 align="center">⚙️ Tech Stack</h2>
 
-<p align="center">
-  <strong>Cloud • DevOps • SRE • Kubernetes • GitOps • Observability • Automation</strong>
-</p>
-
 <table align="center">
   <tr>
     <td align="center" width="90">

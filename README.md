@@ -35,114 +35,108 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="100">
+    <td align="center" width="110">
       <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="55" height="55" alt="AWS" />
       <br><strong>AWS</strong>
     </td>
-    <td align="center" width="100">
+    <td align="center" width="110">
       <img src="https://skillicons.dev/icons?i=azure" width="55" height="55" alt="Azure" />
       <br><strong>Azure</strong>
     </td>
-    <td align="center" width="100">
+    <td align="center" width="110">
       <img src="https://skillicons.dev/icons?i=gcp" width="55" height="55" alt="GCP" />
       <br><strong>GCP</strong>
     </td>
-    <td align="center" width="100">
+    <td align="center" width="110">
       <img src="https://img.shields.io/badge/OCI-F80000?style=for-the-badge&logo=oracle&logoColor=white" height="35" alt="Oracle Cloud" />
       <br><strong>Oracle Cloud</strong>
     </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="100">
+    <td align="center" width="110">
       <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="55" height="55" alt="Kubernetes" />
       <br><strong>Kubernetes</strong>
     </td>
-    <td align="center" width="100">
+    <td align="center" width="110">
       <img src="https://skillicons.dev/icons?i=terraform" width="55" height="55" alt="Terraform" />
       <br><strong>Terraform</strong>
-    </td>
-    <td align="center" width="100">
-      <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="55" height="55" alt="Docker" />
-      <br><strong>Docker</strong>
-    </td>
-    <td align="center" width="100">
-      <img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="55" height="55" alt="NGINX" />
-      <br><strong>NGINX</strong>
     </td>
   </tr>
 
   <tr>
-    <td align="center" width="100">
-      <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" height="35" alt="ArgoCD" />
+    <td align="center" width="110">
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="55" height="55" alt="Docker" />
+      <br><strong>Docker</strong>
+    </td>
+    <td align="center" width="110">
+      <img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="55" height="55" alt="NGINX" />
+      <br><strong>NGINX</strong>
+    </td>
+    <td align="center" width="110">
+      <img src="https://icon.icepanel.io/Technology/svg/Argo-CD.svg" width="55" height="55" alt="ArgoCD" />
       <br><strong>ArgoCD</strong>
     </td>
-    <td align="center" width="100">
+    <td align="center" width="110">
       <img src="https://skillicons.dev/icons?i=githubactions" width="55" height="55" alt="GitHub Actions" />
       <br><strong>GitHub Actions</strong>
     </td>
-    <td align="center" width="100">
+    <td align="center" width="110">
       <img src="https://skillicons.dev/icons?i=gitlab" width="55" height="55" alt="GitLab CI/CD" />
       <br><strong>GitLab CI/CD</strong>
     </td>
-    <td align="center" width="100">
+    <td align="center" width="110">
       <img src="https://skillicons.dev/icons?i=jenkins" width="55" height="55" alt="Jenkins" />
       <br><strong>Jenkins</strong>
     </td>
   </tr>
 
   <tr>
-    <td align="center" width="100">
+    <td align="center" width="110">
       <img src="https://skillicons.dev/icons?i=grafana" width="55" height="55" alt="Grafana" />
       <br><strong>Grafana</strong>
     </td>
-    <td align="center" width="100">
+    <td align="center" width="110">
       <img src="https://skillicons.dev/icons?i=prometheus" width="55" height="55" alt="Prometheus" />
       <br><strong>Prometheus</strong>
     </td>
-    <td align="center" width="100">
+    <td align="center" width="110">
       <img src="https://img.shields.io/badge/Loki-F2CC0C?style=for-the-badge&logo=grafana&logoColor=black" height="35" alt="Loki" />
       <br><strong>Loki</strong>
     </td>
-    <td align="center" width="100">
+    <td align="center" width="110">
       <img src="https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white" height="35" alt="Zabbix" />
       <br><strong>Zabbix</strong>
     </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="100">
+    <td align="center" width="110">
       <img src="https://techstack-generator.vercel.app/github-icon.svg" width="55" height="55" alt="GitHub" />
       <br><strong>GitHub</strong>
     </td>
-    <td align="center" width="100">
+    <td align="center" width="110">
       <img src="https://skillicons.dev/icons?i=git" width="55" height="55" alt="Git" />
       <br><strong>Git</strong>
-    </td>
-    <td align="center" width="100">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="55" height="55" alt="Python" />
-      <br><strong>Python</strong>
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="55" height="55" alt="Node.js" />
-      <br><strong>Node.js</strong>
     </td>
   </tr>
 
   <tr>
-    <td align="center" width="100">
+    <td align="center" width="110">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="55" height="55" alt="Python" />
+      <br><strong>Python</strong>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="55" height="55" alt="Node.js" />
+      <br><strong>Node.js</strong>
+    </td>
+    <td align="center" width="110">
       <img src="https://skillicons.dev/icons?i=linux" width="55" height="55" alt="Linux" />
       <br><strong>Linux</strong>
     </td>
-    <td align="center" width="100">
+    <td align="center" width="110">
       <img src="https://skillicons.dev/icons?i=windows" width="55" height="55" alt="Windows" />
       <br><strong>Windows</strong>
     </td>
-    <td align="center" width="100">
+    <td align="center" width="110">
       <img src="https://skillicons.dev/icons?i=postgres" width="55" height="55" alt="PostgreSQL" />
       <br><strong>PostgreSQL</strong>
     </td>
-    <td align="center" width="100">
+    <td align="center" width="110">
       <img src="https://skillicons.dev/icons?i=mysql" width="55" height="55" alt="MySQL" />
       <br><strong>MySQL</strong>
     </td>

@@ -2,7 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&height=90&lines=Samuel+Sales;Cloud+%26+DevOps+Engineer" alt="Typing SVG" />
 </p>
 
-<img width="280" height="210" alt="image" src="https://github.com/user-attachments/assets/c39affea-3d57-4298-aca5-ee27f71e2b24" />
 
 
 <p align="center">

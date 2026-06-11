@@ -3,11 +3,11 @@
 </p>
 
 <p align="center">
-https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWQ2N2liMml0Mm02dmhlYXFicmx1NHA1cGJtMnR2MGpuMGxsMWJiMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/G2cpDFcKzAPMScb0MC/giphy.gif" />
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWQ2N2liMml0Mm02dmhlYXFicmx1NHA1cGJtMnR2MGpuMGxsMWJiMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/G2cpDFcKzAPMScb0MC/giphy.gif" />
 </p>
 
 <p align="center">
-  <img src="<strong>Cloud & DevOps Engineer</strong> focado em Kubernetes, Cloud Computing, GitOps, Observabilidade e Infrastructure as Code.
+  <strong>Cloud & DevOps Engineer</strong> focado em Kubernetes, Cloud Computing, GitOps, Observabilidade e Infrastructure as Code.
 </p>
 
 ---

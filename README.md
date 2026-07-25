@@ -54,8 +54,6 @@ No meu tempo livre, gosto de desenvolver projetos e laboratórios, testar novas 
       <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="45" height="45" alt="Docker">
       <br><strong>Docker</strong>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="110">
       <img src="https://icon.icepanel.io/Technology/svg/Argo-CD.svg" width="45" height="45" alt="Argo CD">
       <br><strong>Argo CD</strong>
@@ -64,6 +62,8 @@ No meu tempo livre, gosto de desenvolver projetos e laboratórios, testar novas 
       <img src="https://skillicons.dev/icons?i=linux" width="45" height="45" alt="Linux">
       <br><strong>Linux</strong>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="110">
       <img src="https://skillicons.dev/icons?i=githubactions" width="45" height="45" alt="GitHub Actions">
       <br><strong>GitHub Actions</strong>
@@ -76,8 +76,6 @@ No meu tempo livre, gosto de desenvolver projetos e laboratórios, testar novas 
       <img src="https://skillicons.dev/icons?i=jenkins" width="45" height="45" alt="Jenkins">
       <br><strong>Jenkins</strong>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="110">
       <img src="https://skillicons.dev/icons?i=prometheus" width="45" height="45" alt="Prometheus">
       <br><strong>Prometheus</strong>
@@ -93,10 +91,6 @@ No meu tempo livre, gosto de desenvolver projetos e laboratórios, testar novas 
     <td align="center" width="110">
       <img src="https://techstack-generator.vercel.app/python-icon.svg" width="45" height="45" alt="Python">
       <br><strong>Python</strong>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=bash" width="45" height="45" alt="Shell Script">
-      <br><strong>Shell Script</strong>
     </td>
   </tr>
 </table>

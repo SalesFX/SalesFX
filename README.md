@@ -126,9 +126,3 @@ Minha stack inclui tecnologias como **Linux, Docker, Kubernetes, Oracle Cloud In
     alt="Gráfico de contribuições Pac-Man"
   />
 </p>
-
----
-
-<p align="center">
-  <strong>Cloud • DevOps • Kubernetes • Automação • Observabilidade</strong>
-</p>

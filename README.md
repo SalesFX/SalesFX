@@ -1,5 +1,3 @@
-<div align="center">
-
 # Olá, eu sou o Samuel! 👋
 
 Atualmente trabalho como **Cloud / DevOps Engineer**, atuando principalmente com infraestrutura em nuvem, automação, containers, Kubernetes e pipelines de CI/CD.
@@ -10,19 +8,23 @@ O que mais me motiva na área de DevOps é a possibilidade de trabalhar com infr
 
 No meu tempo livre, gosto de desenvolver projetos e laboratórios, testar novas tecnologias, explorar soluções Cloud Native, quebrar alguns clusters Kubernetes no meu homelab, treinar, assistir séries, jogar e passar tempo com as pessoas importantes para mim.
 
-</div>
-
 ---
 
 <h2 align="center">📫 Contato</h2>
 
 <p align="center">
   <a href="https://linkedin.com/in/samuelsalesme">
-    <img src="https://img.shields.io/badge/LinkedIn-Samuel%20Sales-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Samuel%20Sales-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
   </a>
 
   <a href="https://github.com/SalesFX">
-    <img src="https://img.shields.io/badge/GitHub-SalesFX-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img
+      src="https://img.shields.io/badge/GitHub-SalesFX-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
   </a>
 </p>
 
@@ -32,7 +34,7 @@ No meu tempo livre, gosto de desenvolver projetos e laboratórios, testar novas 
 
 <table align="center">
   <tr>
-    <td align="center" width="100">
+    <td align="center" width="110">
       <img
         src="https://techstack-generator.vercel.app/aws-icon.svg"
         width="45"
@@ -43,7 +45,7 @@ No meu tempo livre, gosto de desenvolver projetos e laboratórios, testar novas 
       <strong>AWS</strong>
     </td>
 
-    <td align="center" width="100">
+    <td align="center" width="110">
       <img
         src="https://img.shields.io/badge/OCI-F80000?style=for-the-badge&logo=oracle&logoColor=white"
         height="28"
@@ -53,7 +55,7 @@ No meu tempo livre, gosto de desenvolver projetos e laboratórios, testar novas 
       <strong>OCI</strong>
     </td>
 
-    <td align="center" width="100">
+    <td align="center" width="110">
       <img
         src="https://techstack-generator.vercel.app/kubernetes-icon.svg"
         width="45"
@@ -64,7 +66,7 @@ No meu tempo livre, gosto de desenvolver projetos e laboratórios, testar novas 
       <strong>Kubernetes</strong>
     </td>
 
-    <td align="center" width="100">
+    <td align="center" width="110">
       <img
         src="https://skillicons.dev/icons?i=terraform"
         width="45"
@@ -75,7 +77,7 @@ No meu tempo livre, gosto de desenvolver projetos e laboratórios, testar novas 
       <strong>Terraform</strong>
     </td>
 
-    <td align="center" width="100">
+    <td align="center" width="110">
       <img
         src="https://techstack-generator.vercel.app/docker-icon.svg"
         width="45"
@@ -85,8 +87,10 @@ No meu tempo livre, gosto de desenvolver projetos e laboratórios, testar novas 
       <br>
       <strong>Docker</strong>
     </td>
+  </tr>
 
-    <td align="center" width="100">
+  <tr>
+    <td align="center" width="110">
       <img
         src="https://icon.icepanel.io/Technology/svg/Argo-CD.svg"
         width="45"
@@ -97,7 +101,7 @@ No meu tempo livre, gosto de desenvolver projetos e laboratórios, testar novas 
       <strong>Argo CD</strong>
     </td>
 
-    <td align="center" width="100">
+    <td align="center" width="110">
       <img
         src="https://skillicons.dev/icons?i=linux"
         width="45"
@@ -107,10 +111,8 @@ No meu tempo livre, gosto de desenvolver projetos e laboratórios, testar novas 
       <br>
       <strong>Linux</strong>
     </td>
-  </tr>
 
-  <tr>
-    <td align="center" width="100">
+    <td align="center" width="110">
       <img
         src="https://skillicons.dev/icons?i=githubactions"
         width="45"
@@ -121,7 +123,7 @@ No meu tempo livre, gosto de desenvolver projetos e laboratórios, testar novas 
       <strong>GitHub Actions</strong>
     </td>
 
-    <td align="center" width="100">
+    <td align="center" width="110">
       <img
         src="https://skillicons.dev/icons?i=gitlab"
         width="45"
@@ -132,7 +134,7 @@ No meu tempo livre, gosto de desenvolver projetos e laboratórios, testar novas 
       <strong>GitLab CI</strong>
     </td>
 
-    <td align="center" width="100">
+    <td align="center" width="110">
       <img
         src="https://skillicons.dev/icons?i=jenkins"
         width="45"
@@ -142,8 +144,10 @@ No meu tempo livre, gosto de desenvolver projetos e laboratórios, testar novas 
       <br>
       <strong>Jenkins</strong>
     </td>
+  </tr>
 
-    <td align="center" width="100">
+  <tr>
+    <td align="center" width="110">
       <img
         src="https://skillicons.dev/icons?i=prometheus"
         width="45"
@@ -154,7 +158,7 @@ No meu tempo livre, gosto de desenvolver projetos e laboratórios, testar novas 
       <strong>Prometheus</strong>
     </td>
 
-    <td align="center" width="100">
+    <td align="center" width="110">
       <img
         src="https://skillicons.dev/icons?i=grafana"
         width="45"
@@ -165,7 +169,7 @@ No meu tempo livre, gosto de desenvolver projetos e laboratórios, testar novas 
       <strong>Grafana</strong>
     </td>
 
-    <td align="center" width="100">
+    <td align="center" width="110">
       <img
         src="https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white"
         height="28"
@@ -175,7 +179,7 @@ No meu tempo livre, gosto de desenvolver projetos e laboratórios, testar novas 
       <strong>Zabbix</strong>
     </td>
 
-    <td align="center" width="100">
+    <td align="center" width="110">
       <img
         src="https://techstack-generator.vercel.app/python-icon.svg"
         width="45"
@@ -184,6 +188,17 @@ No meu tempo livre, gosto de desenvolver projetos e laboratórios, testar novas 
       />
       <br>
       <strong>Python</strong>
+    </td>
+
+    <td align="center" width="110">
+      <img
+        src="https://skillicons.dev/icons?i=bash"
+        width="45"
+        height="45"
+        alt="Shell Script"
+      />
+      <br>
+      <strong>Shell Script</strong>
     </td>
   </tr>
 </table>

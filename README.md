@@ -2,8 +2,6 @@
 
 # Olá, eu sou o Samuel! 👋
 
----
-
 Atualmente trabalho como **Cloud / DevOps Engineer**, atuando principalmente com infraestrutura em nuvem, automação, containers, Kubernetes e pipelines de CI/CD.
 
 Minha stack inclui tecnologias como **Linux, Docker, Kubernetes, Oracle Cloud Infrastructure, AWS, Terraform, Argo CD, GitLab CI/CD, GitHub Actions, Jenkins, Prometheus, Grafana, Zabbix, Python e Shell Script**.

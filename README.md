@@ -2,10 +2,6 @@
 
 # Olá, eu sou o Samuel! 👋
 
-### Cloud / DevOps Engineer
-
-</div>
-
 ---
 
 Atualmente trabalho como **Cloud / DevOps Engineer**, atuando principalmente com infraestrutura em nuvem, automação, containers, Kubernetes e pipelines de CI/CD.

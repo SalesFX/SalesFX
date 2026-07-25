@@ -39,7 +39,7 @@ No meu tempo livre, gosto de desenvolver projetos e laboratórios, testar novas 
       <br><strong>AWS</strong>
     </td>
     <td align="center" width="110">
-      <img src="https://img.shields.io/badge/OCI-F80000?style=for-the-badge&logo=oracle&logoColor=white" height="28" alt="OCI">
+      <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/oracle-cloud.svg" width="45" height="45" alt="Oracle Cloud Infrastructure">
       <br><strong>OCI</strong>
     </td>
     <td align="center" width="110">
@@ -85,7 +85,7 @@ No meu tempo livre, gosto de desenvolver projetos e laboratórios, testar novas 
       <br><strong>Grafana</strong>
     </td>
     <td align="center" width="110">
-      <img src="https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white" height="28" alt="Zabbix">
+      <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/zabbix.svg" width="45" height="45" alt="Zabbix">
       <br><strong>Zabbix</strong>
     </td>
     <td align="center" width="110">

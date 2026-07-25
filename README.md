@@ -4,10 +4,6 @@ Atualmente trabalho como **Cloud / DevOps Engineer**, atuando principalmente com
 
 Minha stack inclui tecnologias como **Linux, Docker, Kubernetes, Oracle Cloud Infrastructure, AWS, Terraform, Argo CD, GitLab CI/CD, GitHub Actions, Jenkins, Prometheus, Grafana, Zabbix, Python e Shell Script**.
 
-O que mais me motiva na área de DevOps é a possibilidade de trabalhar com infraestruturas complexas e transformar processos manuais em soluções automatizadas, escaláveis, observáveis e confiáveis.
-
-No meu tempo livre, gosto de desenvolver projetos e laboratórios, testar novas tecnologias, explorar soluções Cloud Native, quebrar alguns clusters Kubernetes no meu homelab, treinar, assistir séries, jogar e passar tempo com as pessoas importantes para mim.
-
 ---
 
 <h2 align="center">📫 Contato</h2>

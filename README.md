@@ -35,170 +35,68 @@ No meu tempo livre, gosto de desenvolver projetos e laboratórios, testar novas 
 <table align="center">
   <tr>
     <td align="center" width="110">
-      <img
-        src="https://techstack-generator.vercel.app/aws-icon.svg"
-        width="45"
-        height="45"
-        alt="AWS"
-      />
-      <br>
-      <strong>AWS</strong>
+      <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="45" height="45" alt="AWS">
+      <br><strong>AWS</strong>
     </td>
-
     <td align="center" width="110">
-      <img
-        src="https://img.shields.io/badge/OCI-F80000?style=for-the-badge&logo=oracle&logoColor=white"
-        height="28"
-        alt="Oracle Cloud Infrastructure"
-      />
-      <br>
-      <strong>OCI</strong>
+      <img src="https://img.shields.io/badge/OCI-F80000?style=for-the-badge&logo=oracle&logoColor=white" height="28" alt="OCI">
+      <br><strong>OCI</strong>
     </td>
-
     <td align="center" width="110">
-      <img
-        src="https://techstack-generator.vercel.app/kubernetes-icon.svg"
-        width="45"
-        height="45"
-        alt="Kubernetes"
-      />
-      <br>
-      <strong>Kubernetes</strong>
+      <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="45" height="45" alt="Kubernetes">
+      <br><strong>Kubernetes</strong>
     </td>
-
     <td align="center" width="110">
-      <img
-        src="https://skillicons.dev/icons?i=terraform"
-        width="45"
-        height="45"
-        alt="Terraform"
-      />
-      <br>
-      <strong>Terraform</strong>
+      <img src="https://skillicons.dev/icons?i=terraform" width="45" height="45" alt="Terraform">
+      <br><strong>Terraform</strong>
     </td>
-
     <td align="center" width="110">
-      <img
-        src="https://techstack-generator.vercel.app/docker-icon.svg"
-        width="45"
-        height="45"
-        alt="Docker"
-      />
-      <br>
-      <strong>Docker</strong>
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="45" height="45" alt="Docker">
+      <br><strong>Docker</strong>
     </td>
   </tr>
-
   <tr>
     <td align="center" width="110">
-      <img
-        src="https://icon.icepanel.io/Technology/svg/Argo-CD.svg"
-        width="45"
-        height="45"
-        alt="Argo CD"
-      />
-      <br>
-      <strong>Argo CD</strong>
+      <img src="https://icon.icepanel.io/Technology/svg/Argo-CD.svg" width="45" height="45" alt="Argo CD">
+      <br><strong>Argo CD</strong>
     </td>
-
     <td align="center" width="110">
-      <img
-        src="https://skillicons.dev/icons?i=linux"
-        width="45"
-        height="45"
-        alt="Linux"
-      />
-      <br>
-      <strong>Linux</strong>
+      <img src="https://skillicons.dev/icons?i=linux" width="45" height="45" alt="Linux">
+      <br><strong>Linux</strong>
     </td>
-
     <td align="center" width="110">
-      <img
-        src="https://skillicons.dev/icons?i=githubactions"
-        width="45"
-        height="45"
-        alt="GitHub Actions"
-      />
-      <br>
-      <strong>GitHub Actions</strong>
+      <img src="https://skillicons.dev/icons?i=githubactions" width="45" height="45" alt="GitHub Actions">
+      <br><strong>GitHub Actions</strong>
     </td>
-
     <td align="center" width="110">
-      <img
-        src="https://skillicons.dev/icons?i=gitlab"
-        width="45"
-        height="45"
-        alt="GitLab CI/CD"
-      />
-      <br>
-      <strong>GitLab CI</strong>
+      <img src="https://skillicons.dev/icons?i=gitlab" width="45" height="45" alt="GitLab CI/CD">
+      <br><strong>GitLab CI</strong>
     </td>
-
     <td align="center" width="110">
-      <img
-        src="https://skillicons.dev/icons?i=jenkins"
-        width="45"
-        height="45"
-        alt="Jenkins"
-      />
-      <br>
-      <strong>Jenkins</strong>
+      <img src="https://skillicons.dev/icons?i=jenkins" width="45" height="45" alt="Jenkins">
+      <br><strong>Jenkins</strong>
     </td>
   </tr>
-
   <tr>
     <td align="center" width="110">
-      <img
-        src="https://skillicons.dev/icons?i=prometheus"
-        width="45"
-        height="45"
-        alt="Prometheus"
-      />
-      <br>
-      <strong>Prometheus</strong>
+      <img src="https://skillicons.dev/icons?i=prometheus" width="45" height="45" alt="Prometheus">
+      <br><strong>Prometheus</strong>
     </td>
-
     <td align="center" width="110">
-      <img
-        src="https://skillicons.dev/icons?i=grafana"
-        width="45"
-        height="45"
-        alt="Grafana"
-      />
-      <br>
-      <strong>Grafana</strong>
+      <img src="https://skillicons.dev/icons?i=grafana" width="45" height="45" alt="Grafana">
+      <br><strong>Grafana</strong>
     </td>
-
     <td align="center" width="110">
-      <img
-        src="https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white"
-        height="28"
-        alt="Zabbix"
-      />
-      <br>
-      <strong>Zabbix</strong>
+      <img src="https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white" height="28" alt="Zabbix">
+      <br><strong>Zabbix</strong>
     </td>
-
     <td align="center" width="110">
-      <img
-        src="https://techstack-generator.vercel.app/python-icon.svg"
-        width="45"
-        height="45"
-        alt="Python"
-      />
-      <br>
-      <strong>Python</strong>
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="45" height="45" alt="Python">
+      <br><strong>Python</strong>
     </td>
-
     <td align="center" width="110">
-      <img
-        src="https://skillicons.dev/icons?i=bash"
-        width="45"
-        height="45"
-        alt="Shell Script"
-      />
-      <br>
-      <strong>Shell Script</strong>
+      <img src="https://skillicons.dev/icons?i=bash" width="45" height="45" alt="Shell Script">
+      <br><strong>Shell Script</strong>
     </td>
   </tr>
 </table>

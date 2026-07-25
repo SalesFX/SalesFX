@@ -4,8 +4,6 @@
 
 ### Cloud / DevOps Engineer
 
-Infraestrutura em nuvem • Kubernetes • Automação • CI/CD • GitOps • Observabilidade
-
 </div>
 
 ---

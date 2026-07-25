@@ -20,6 +20,7 @@ No meu tempo livre, gosto de desenvolver projetos e laboratórios, testar novas 
   <a href="https://linkedin.com/in/samuelsalesme">
     <img src="https://img.shields.io/badge/LinkedIn-Samuel%20Sales-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+
   <a href="https://github.com/SalesFX">
     <img src="https://img.shields.io/badge/GitHub-SalesFX-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
@@ -29,27 +30,163 @@ No meu tempo livre, gosto de desenvolver projetos e laboratórios, testar novas 
 
 <h2 align="center">⚙️ Tech Stack</h2>
 
-<p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=aws,kubernetes,terraform,docker,linux,githubactions,gitlab,jenkins,prometheus,grafana,python,bash&perline=6"
-    alt="Principais tecnologias"
-  />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="100">
+      <img
+        src="https://techstack-generator.vercel.app/aws-icon.svg"
+        width="45"
+        height="45"
+        alt="AWS"
+      />
+      <br>
+      <strong>AWS</strong>
+    </td>
 
-<p align="center">
-  <img
-    src="https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white"
-    alt="Oracle Cloud Infrastructure"
-  />
-  <img
-    src="https://img.shields.io/badge/Argo%20CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white"
-    alt="Argo CD"
-  />
-  <img
-    src="https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white"
-    alt="Zabbix"
-  />
-</p>
+    <td align="center" width="100">
+      <img
+        src="https://img.shields.io/badge/OCI-F80000?style=for-the-badge&logo=oracle&logoColor=white"
+        height="28"
+        alt="Oracle Cloud Infrastructure"
+      />
+      <br>
+      <strong>OCI</strong>
+    </td>
+
+    <td align="center" width="100">
+      <img
+        src="https://techstack-generator.vercel.app/kubernetes-icon.svg"
+        width="45"
+        height="45"
+        alt="Kubernetes"
+      />
+      <br>
+      <strong>Kubernetes</strong>
+    </td>
+
+    <td align="center" width="100">
+      <img
+        src="https://skillicons.dev/icons?i=terraform"
+        width="45"
+        height="45"
+        alt="Terraform"
+      />
+      <br>
+      <strong>Terraform</strong>
+    </td>
+
+    <td align="center" width="100">
+      <img
+        src="https://techstack-generator.vercel.app/docker-icon.svg"
+        width="45"
+        height="45"
+        alt="Docker"
+      />
+      <br>
+      <strong>Docker</strong>
+    </td>
+
+    <td align="center" width="100">
+      <img
+        src="https://icon.icepanel.io/Technology/svg/Argo-CD.svg"
+        width="45"
+        height="45"
+        alt="Argo CD"
+      />
+      <br>
+      <strong>Argo CD</strong>
+    </td>
+
+    <td align="center" width="100">
+      <img
+        src="https://skillicons.dev/icons?i=linux"
+        width="45"
+        height="45"
+        alt="Linux"
+      />
+      <br>
+      <strong>Linux</strong>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="100">
+      <img
+        src="https://skillicons.dev/icons?i=githubactions"
+        width="45"
+        height="45"
+        alt="GitHub Actions"
+      />
+      <br>
+      <strong>GitHub Actions</strong>
+    </td>
+
+    <td align="center" width="100">
+      <img
+        src="https://skillicons.dev/icons?i=gitlab"
+        width="45"
+        height="45"
+        alt="GitLab CI/CD"
+      />
+      <br>
+      <strong>GitLab CI</strong>
+    </td>
+
+    <td align="center" width="100">
+      <img
+        src="https://skillicons.dev/icons?i=jenkins"
+        width="45"
+        height="45"
+        alt="Jenkins"
+      />
+      <br>
+      <strong>Jenkins</strong>
+    </td>
+
+    <td align="center" width="100">
+      <img
+        src="https://skillicons.dev/icons?i=prometheus"
+        width="45"
+        height="45"
+        alt="Prometheus"
+      />
+      <br>
+      <strong>Prometheus</strong>
+    </td>
+
+    <td align="center" width="100">
+      <img
+        src="https://skillicons.dev/icons?i=grafana"
+        width="45"
+        height="45"
+        alt="Grafana"
+      />
+      <br>
+      <strong>Grafana</strong>
+    </td>
+
+    <td align="center" width="100">
+      <img
+        src="https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white"
+        height="28"
+        alt="Zabbix"
+      />
+      <br>
+      <strong>Zabbix</strong>
+    </td>
+
+    <td align="center" width="100">
+      <img
+        src="https://techstack-generator.vercel.app/python-icon.svg"
+        width="45"
+        height="45"
+        alt="Python"
+      />
+      <br>
+      <strong>Python</strong>
+    </td>
+  </tr>
+</table>
 
 ---
 

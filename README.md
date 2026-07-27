@@ -6,6 +6,48 @@ Minha stack inclui tecnologias como **Linux, Docker, Kubernetes, Oracle Cloud In
 
 ---
 
+<h2 align="center">🏅 Certificações Oracle Cloud</h2>
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/SalesFX/imagens-lustra/main/DEVOPSORACLE.png"
+    width="150"
+    alt="Oracle Cloud Infrastructure DevOps Professional"
+    title="Oracle Cloud Infrastructure DevOps Professional"
+  />
+
+<img
+ src="https://raw.githubusercontent.com/SalesFX/imagens-lustra/main/MOP.png"
+ width="150"
+ alt="Oracle Cloud Infrastructure Migration Architect Professional"
+ title="Oracle Cloud Infrastructure Migration Architect Professional"
+/>
+
+<img
+ src="https://raw.githubusercontent.com/SalesFX/imagens-lustra/main/OCA.png"
+ width="150"
+ alt="Oracle Cloud Infrastructure Architect Associate"
+ title="Oracle Cloud Infrastructure Architect Associate"
+/>
+
+<img
+ src="https://raw.githubusercontent.com/SalesFX/imagens-lustra/main/OCP.png"
+ width="150"
+ alt="Oracle Cloud Infrastructure Architect Professional"
+ title="Oracle Cloud Infrastructure Architect Professional"
+/>
+
+</p>
+
+<p align="center">
+  <strong>OCI DevOps Professional</strong> •
+  <strong>OCI Migration Architect Professional</strong> •
+  <strong>OCI Architect Associate</strong> •
+  <strong>OCI Architect Professional</strong>
+</p>
+
+---
+
 <h2 align="center">📫 Contato</h2>
 
 <p align="center">
@@ -95,12 +137,12 @@ Minha stack inclui tecnologias como **Linux, Docker, Kubernetes, Oracle Cloud In
 
 <h2 align="center">🚀 Projetos em Destaque</h2>
 
-| Projeto | Descrição |
-| --- | --- |
-| 🤖 [MLOps Phishing Detection](https://github.com/SalesFX/MLOps-PhishingDetection) | Plataforma MLOps para detecção de phishing em URLs, com extração automática de features, treinamento de modelo, API FastAPI, rastreamento de experimentos com MLflow e deploy automatizado na AWS.<br><br>`Python` `FastAPI` `scikit-learn` `MLflow` `MongoDB Atlas` `Docker` `AWS` `ECR` `EC2` `S3` `Terraform` `GitHub Actions` `OIDC` |
-| 🚀 [AWS EKS DevOps Platform](https://github.com/SalesFX/eks-sre-devops-platform) | Plataforma Cloud Native em AWS EKS com infraestrutura como código, GitOps, DevSecOps, observabilidade, gerenciamento seguro de identidades e pipelines automatizadas.<br><br>`AWS` `EKS` `Terraform` `Argo CD` `GitHub Actions` `Prometheus` `Grafana` `IRSA` |
-| 🔵🟢 [Blue-Green Deployment on AWS EKS](https://github.com/SalesFX/app-blue-green) | Implementação de Blue-Green Deployment em Kubernetes, com zero downtime, health checks automáticos, rollback rápido e pipeline CI/CD autenticado com OIDC.<br><br>`AWS` `EKS` `Terraform` `Python` `GitHub Actions` `OIDC` |
-| ☁️ [OCI AI DevOps Platform](https://github.com/SalesFX/oci-ai-devops-platform) | Plataforma DevOps para Oracle Cloud com Kubernetes, GitOps, automação de infraestrutura, observabilidade e práticas modernas de entrega contínua.<br><br>`OCI` `OKE` `Terraform` `Argo CD` `Grafana` |
+| Projeto                                                                            | Descrição                                                                                                                                                                                                                                                                                                                                |
+| ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 🤖 [MLOps Phishing Detection](https://github.com/SalesFX/MLOps-PhishingDetection)  | Plataforma MLOps para detecção de phishing em URLs, com extração automática de features, treinamento de modelo, API FastAPI, rastreamento de experimentos com MLflow e deploy automatizado na AWS.<br><br>`Python` `FastAPI` `scikit-learn` `MLflow` `MongoDB Atlas` `Docker` `AWS` `ECR` `EC2` `S3` `Terraform` `GitHub Actions` `OIDC` |
+| 🚀 [AWS EKS DevOps Platform](https://github.com/SalesFX/eks-sre-devops-platform)   | Plataforma Cloud Native em AWS EKS com infraestrutura como código, GitOps, DevSecOps, observabilidade, gerenciamento seguro de identidades e pipelines automatizadas.<br><br>`AWS` `EKS` `Terraform` `Argo CD` `GitHub Actions` `Prometheus` `Grafana` `IRSA`                                                                            |
+| 🔵🟢 [Blue-Green Deployment on AWS EKS](https://github.com/SalesFX/app-blue-green) | Implementação de Blue-Green Deployment em Kubernetes, com zero downtime, health checks automáticos, rollback rápido e pipeline CI/CD autenticado com OIDC.<br><br>`AWS` `EKS` `Terraform` `Python` `GitHub Actions` `OIDC`                                                                                                               |
+| ☁️ [OCI AI DevOps Platform](https://github.com/SalesFX/oci-ai-devops-platform)     | Plataforma DevOps para Oracle Cloud com Kubernetes, GitOps, automação de infraestrutura, observabilidade e práticas modernas de entrega contínua.<br><br>`OCI` `OKE` `Terraform` `Argo CD` `Grafana`                                                                                                                                     |
 
 ---
 

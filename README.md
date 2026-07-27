@@ -8,30 +8,20 @@ Minha stack inclui tecnologias como **Linux, Docker, Kubernetes, Oracle Cloud In
 
 <h2 align="center">🏅 Certificações Oracle Cloud</h2>
 
-<table align="center">
-<tr>
-<td align="center">
+<p align="center">
 <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=8EC53A748B80D98FED963F026E99B3DCB3E060F0CB4095E30856306690F2189A">
-<img src="https://raw.githubusercontent.com/SalesFX/imagens-lustra/main/DEVOPSORACLE.png" width="180" alt="OCI DevOps Professional">
+<img src="https://raw.githubusercontent.com/SalesFX/imagens-lustra/main/DEVOPSORACLE.png" width="220" alt="OCI DevOps Professional">
 </a>
-</td>
-<td align="center">
 <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=B7F54BEA29C2A91F696DA18AF4C8D50AC67F2270F6777B87CCA3BBA6CBC1A1AE">
-<img src="https://raw.githubusercontent.com/SalesFX/imagens-lustra/main/MOP.png" width="180" alt="OCI Migration Architect Professional">
+<img src="https://raw.githubusercontent.com/SalesFX/imagens-lustra/main/MOP.png" width="220" alt="OCI Migration Architect Professional">
 </a>
-</td>
-<td align="center">
 <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=B3081BAE8204BE86BFA38A89D375C7ED617A00D1E9BE041CE5364C6F34E0E76E">
-<img src="https://raw.githubusercontent.com/SalesFX/imagens-lustra/main/OCA.png" width="180" alt="OCI Architect Associate">
+<img src="https://raw.githubusercontent.com/SalesFX/imagens-lustra/main/OCA.png" width="220" alt="OCI Architect Associate">
 </a>
-</td>
-<td align="center">
 <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=E1B72778B782BCEFBF882CB65EF4600FA7569F1E6BED5EFC3DE5E3DE2CB222C8">
-<img src="https://raw.githubusercontent.com/SalesFX/imagens-lustra/main/OCP.png" width="180" alt="OCI Architect Professional">
+<img src="https://raw.githubusercontent.com/SalesFX/imagens-lustra/main/OCP.png" width="220" alt="OCI Architect Professional">
 </a>
-</td>
-</tr>
-</table>
+</p>
 
 <p align="center">
 <sub>Clique nos badges para validar as certificações.</sub>

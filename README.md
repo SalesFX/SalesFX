@@ -27,7 +27,7 @@ Minha stack inclui tecnologias como **Linux, Docker, Kubernetes, Oracle Cloud In
       <br><strong>AWS</strong>
     </td>
     <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/oracle-cloud.svg" width="45" height="45" alt="Oracle Cloud Infrastructure">
+      <img src="https://raw.githubusercontent.com/SalesFX/imagens-lustra/main/oracle_logo.jpg" width="45" height="45" alt="Oracle Cloud Infrastructure">
       <br><strong>OCI</strong>
     </td>
     <td align="center" width="110">
@@ -91,7 +91,7 @@ Minha stack inclui tecnologias como **Linux, Docker, Kubernetes, Oracle Cloud In
 | ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 🤖 [MLOps Phishing Detection](https://github.com/SalesFX/MLOps-PhishingDetection)  | Plataforma MLOps para detecção de phishing em URLs, com extração automática de features, treinamento de modelo, API FastAPI, rastreamento de experimentos com MLflow e deploy automatizado na AWS.<br><br>`Python` `FastAPI` `scikit-learn` `MLflow` `MongoDB Atlas` `Docker` `AWS` `ECR` `EC2` `S3` `Terraform` `GitHub Actions` `OIDC` |
 | 🚀 [AWS EKS DevOps Platform](https://github.com/SalesFX/eks-sre-devops-platform)   | Plataforma Cloud Native em AWS EKS com infraestrutura como código, GitOps, DevSecOps, observabilidade, gerenciamento seguro de identidades e pipelines automatizadas.<br><br>`AWS` `EKS` `Terraform` `Argo CD` `GitHub Actions` `Prometheus` `Grafana` `IRSA`                                                                            |
-| 🔵🟢 [Blue-Green Deployment on AWS EKS](https://github.com/SalesFX/app-blue-green) | Implementação de Blue-Green Deployment em Kubernetes, com zero downtime, health checks automáticos, rollback rápido e pipeline CI/CD autenticado com OIDC.<br><br>`AWS` `EKS` `Terraform` `Python` `GitHub Actions` `OIDC`                                                                                                               |                                                                                                                                     |
+| 🔵🟢 [Blue-Green Deployment on AWS EKS](https://github.com/SalesFX/app-blue-green) | Implementação de Blue-Green Deployment em Kubernetes, com zero downtime, health checks automáticos, rollback rápido e pipeline CI/CD autenticado com OIDC.<br><br>`AWS` `EKS` `Terraform` `Python` `GitHub Actions` `OIDC`                                                                                                               |
 
 ---
 
